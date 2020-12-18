@@ -1,0 +1,7 @@
+{'sourcePath': 'https://archive.ics.uci.edu/ml/machine-learning-databases/00502',
+ 'sourceFile': 'online_retail_II.xlsx',
+ 'targetPath': 'C:/SpringBoard-DataEngineer/DataPipeLine-Proj1',
+ 'worksheet1': 'Year 2009-2010',
+ 'worksheet2': 'Year 2010-2011',
+ 'PrimCountry': 'United Kingdom'
+}
