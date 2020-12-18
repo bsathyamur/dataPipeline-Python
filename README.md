@@ -6,9 +6,9 @@ The python script will use the config.yaml file to read the source and target fi
 [link] https://archive.ics.uci.edu/ml/datasets.php
 
 The python script will perform the following process in a step by step procedure:
-      1. Download the retail dataset from the specified URL
-      2. Clean the retail dataset 
-          a. Convert null fields in user id to Guest
+      * Download the retail dataset from the specified URL
+      * Clean the retail dataset 
+          * Convert null fields in user id to Guest
           b. Convert null fields in description to Unlisted
           c. Extract the invoice date column and add new columns - Year and Quarter
           d. Based on the Quantity column add a new column - InvoiceType with values either Purchase or Return
