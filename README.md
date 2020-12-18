@@ -3,7 +3,7 @@
 Use Python to automate the data acquisition, cleaning/transformation, and storage process.
 
 The python script will use the config.yaml file to read the source and target file locations to download the data file from the URL 
-[link] https://archive.ics.uci.edu/ml/datasets.php
+[link](https://archive.ics.uci.edu/ml/datasets.php)
 
 The python script will perform the following process in a step by step procedure:
 * Download the retail dataset from the specified URL
